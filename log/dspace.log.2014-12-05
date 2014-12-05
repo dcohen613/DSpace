@@ -1,0 +1,424 @@
+2014-12-05 08:44:24,792 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2014-12-05 08:44:24,803 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2014-12-05 08:44:24,803 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2014-12-05 08:44:26,240 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-12-05 08:44:32,754 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2014-12-05 08:44:32,765 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2014-12-05 08:44:32,765 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2014-12-05 08:44:34,161 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-12-05 08:46:08,724 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2014-12-05 08:46:08,735 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2014-12-05 08:46:08,735 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2014-12-05 08:46:10,122 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-12-05 09:31:01,905 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2014-12-05 09:31:01,977 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-12-05 09:31:01,977 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-12-05 09:31:01,977 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-12-05 09:31:01,977 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-12-05 09:31:01,977 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-12-05 09:31:01,977 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-12-05 09:31:01,977 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-12-05 09:31:01,978 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-12-05 09:31:01,978 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-12-05 09:31:37,360 WARN  org.dspace.app.xmlui.utils.AuthenticationUtil @ anonymous:session_id=5C52B81C88F6C2A6FB20863B5832D7EA:ip_mismatch:id=1, request ip=127.0.0.1, session ip=10.100.112.117
+2014-12-05 09:31:38,789 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5C52B81C88F6C2A6FB20863B5832D7EA:ip_addr=127.0.0.1:view_community_list:
+2014-12-05 09:31:38,794 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-12-05 09:31:39,590 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2014-12-05 09:31:39,605 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2014-12-05 09:33:28,625 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9E7616DE511878C2E3AF10D84F8D8837:ip_addr=127.0.0.1:view_community_list:
+2014-12-05 09:33:28,626 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-12-05 09:34:15,578 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2014-12-05 09:34:15,640 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-12-05 09:34:15,640 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-12-05 09:34:15,640 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-12-05 09:34:15,640 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-12-05 09:34:15,640 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-12-05 09:34:15,640 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-12-05 09:34:15,640 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-12-05 09:34:15,640 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-12-05 09:34:15,641 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-12-05 09:36:18,103 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2014-12-05 09:36:18,113 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2014-12-05 09:36:18,113 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2014-12-05 09:36:19,500 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-12-05 09:39:22,827 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2014-12-05 09:39:22,888 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-12-05 09:39:22,888 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-12-05 09:39:22,888 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-12-05 09:39:22,888 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-12-05 09:39:22,889 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-12-05 09:39:22,889 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-12-05 09:39:22,889 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-12-05 09:39:22,889 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-12-05 09:39:22,889 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-12-05 09:39:58,798 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=2F2CB993873A88E7C6940C30A915607A:ip_addr=127.0.0.1:view_community_list:
+2014-12-05 09:39:58,802 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-12-05 09:39:59,330 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2014-12-05 09:39:59,355 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2014-12-05 09:40:42,447 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=7B69B7C163542C7AB04D9B8315BB07F0:ip_addr=127.0.0.1:view_community_list:
+2014-12-05 09:40:42,447 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-12-05 09:42:17,541 ERROR org.dspace.xoai.DSpaceOAIDataProvider @ Context "" does not exist
+com.lyncode.xoai.dataprovider.exceptions.InvalidContextException: Context "" does not exist
+	at com.lyncode.xoai.dataprovider.OAIDataProvider.<init>(OAIDataProvider.java:123)
+	at org.dspace.xoai.DSpaceOAIDataProvider.doGet(DSpaceOAIDataProvider.java:123)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-12-05 09:47:02,817 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=7B69B7C163542C7AB04D9B8315BB07F0:ip_addr=127.0.0.1:view_community_list:
+2014-12-05 09:47:02,817 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-12-05 09:55:35,213 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-12-05 09:55:36,374 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2014-12-05 09:55:36,435 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-12-05 09:55:36,435 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-12-05 09:55:36,435 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-12-05 09:55:36,435 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-12-05 09:55:36,435 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-12-05 09:55:36,436 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-12-05 09:55:36,436 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-12-05 09:55:36,436 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-12-05 09:55:36,436 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-12-05 09:59:09,323 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2014-12-05 09:59:09,383 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-12-05 09:59:09,384 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-12-05 09:59:09,384 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-12-05 09:59:09,384 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-12-05 09:59:09,384 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-12-05 09:59:09,384 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-12-05 09:59:09,384 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-12-05 09:59:09,384 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-12-05 09:59:09,385 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-12-05 10:07:44,668 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:view_community_list:
+2014-12-05 10:07:44,673 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-12-05 10:07:45,479 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2014-12-05 10:07:45,491 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2014-12-05 10:08:03,838 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:authenticate:attempting password auth of user=dcohen@memphis.edu
+2014-12-05 10:08:03,875 INFO  org.dspace.authenticate.PasswordAuthentication @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:authenticate:type=PasswordAuthentication
+2014-12-05 10:08:03,876 INFO  org.dspace.eperson.EPerson @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:update_eperson:eperson_id=1
+2014-12-05 10:08:03,876 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:login:type=explicit
+2014-12-05 10:08:04,021 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:view_community_list:
+2014-12-05 10:08:04,021 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-12-05 10:08:07,828 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:view_community:community_id=24
+2014-12-05 10:08:07,832 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2014-12-05 10:08:07,832 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://localhost:8080/solr/statistics
+2014-12-05 10:08:07,832 INFO  org.dspace.statistics.SolrLogger @ usage-statistics.dbfile:/dspace/config/GeoLiteCity.dat
+2014-12-05 10:08:07,868 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2014-12-05 10:08:07,870 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2014-12-05 10:08:07,873 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-infoseek.txt
+2014-12-05 10:08:07,879 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-inktomi.txt
+2014-12-05 10:08:07,881 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-google.txt
+2014-12-05 10:08:08,138 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading panchma.tivra.com:  Unresolvable host name (empty response)
+2014-12-05 10:08:08,985 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat09.whizbang.com:  null
+2014-12-05 10:08:09,649 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:view_community:community_id=2
+2014-12-05 10:08:09,652 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/domains/example
+2014-12-05 10:08:09,689 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawl8-public.alexa.com:  Unresolvable host name (empty response)
+2014-12-05 10:08:09,951 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading zeus.nj.nec.com:  Unresolvable host name (empty response)
+2014-12-05 10:08:10,061 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-12-05 10:08:10,154 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading xs4.kso.co.uk:  Unresolvable host name (empty response)
+2014-12-05 10:08:10,290 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawler918.com:  Unresolvable host name (empty response)
+2014-12-05 10:08:10,390 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading idle.eidetica.com:  Unresolvable host name (empty response)
+2014-12-05 10:08:11,315 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat06.whizbang.com:  null
+2014-12-05 10:08:11,332 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-non_engines.txt
+2014-12-05 10:08:11,334 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-altavista.txt
+2014-12-05 10:08:11,335 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-lycos.txt
+2014-12-05 10:08:11,362 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-misc.txt
+2014-12-05 10:08:11,362 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-excite.txt
+2014-12-05 10:08:11,398 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@28d: 3
+2014-12-05 10:08:58,253 INFO  org.dspace.content.Collection @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:create_collection:collection_id=10,handle=123456789/48
+2014-12-05 10:08:58,254 INFO  org.dspace.content.Community @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:add_collection:community_id=2,collection_id=10
+2014-12-05 10:08:58,261 INFO  org.dspace.content.Collection @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:update_collection:collection_id=10
+2014-12-05 10:08:58,263 INFO  org.dspace.event.EventManager @ 
+2014-12-05 10:08:58,331 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/48 to Index
+2014-12-05 10:09:03,051 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:view_community_list:
+2014-12-05 10:09:06,944 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:view_collection:collection_id=10
+2014-12-05 10:09:06,972 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@fcf49dbb: 3
+2014-12-05 10:09:58,635 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:update_item:item_id=29
+2014-12-05 10:09:58,636 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:create_item:item_id=29
+2014-12-05 10:09:58,643 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:update_item:item_id=29
+2014-12-05 10:09:58,647 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:create_workspace_item:workspace_item_id=-1item_id=29collection_id=10
+2014-12-05 10:09:58,668 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:09:58,669 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:09:58,707 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:09:58,709 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:09:58,713 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:09:58,715 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:10:17,311 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:10:17,313 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:10:17,417 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:10:25,643 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:10:25,645 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:10:25,708 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:10:58,882 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:10:58,883 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:10:58,934 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:10:58,936 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:11:16,122 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:11:16,123 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:11:22,010 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:11:22,011 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:11:32,103 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:11:32,104 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:11:38,791 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:11:38,792 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:11:42,077 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:11:42,079 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:11:51,377 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:11:51,378 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:12:05,329 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:12:05,329 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:12:05,354 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:12:05,355 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:12:37,762 INFO  org.dspace.content.Bundle @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:create_bundle:bundle_id=46
+2014-12-05 10:12:37,762 INFO  org.dspace.content.Bundle @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_bundle:bundle_id=46
+2014-12-05 10:12:37,764 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:add_bundle:item_id=29,bundle_id=46
+2014-12-05 10:12:37,821 INFO  org.dspace.content.Bitstream @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:create_bitstream:bitstream_id=77
+2014-12-05 10:12:37,824 INFO  org.dspace.content.Bundle @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:add_bitstream:bundle_id=46,bitstream_id=77
+2014-12-05 10:12:37,832 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:add_bundle:item_id=29,bundle_id=46
+2014-12-05 10:12:37,834 INFO  org.dspace.content.Bitstream @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_bitstream:bitstream_id=77
+2014-12-05 10:12:37,835 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:12:37,836 INFO  org.dspace.content.Bitstream @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_bitstream:bitstream_id=77
+2014-12-05 10:12:37,877 INFO  org.dspace.content.Bitstream @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_bitstream:bitstream_id=77
+2014-12-05 10:12:37,936 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:12:37,938 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:12:44,161 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:12:44,162 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:12:47,541 INFO  org.dspace.submit.step.LicenseStep @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:accept_license:workspace_item_id29
+2014-12-05 10:12:47,545 INFO  org.dspace.content.Bundle @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:create_bundle:bundle_id=47
+2014-12-05 10:12:47,546 INFO  org.dspace.content.Bundle @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_bundle:bundle_id=47
+2014-12-05 10:12:47,548 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:add_bundle:item_id=29,bundle_id=47
+2014-12-05 10:12:47,570 INFO  org.dspace.content.Bitstream @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:create_bitstream:bitstream_id=78
+2014-12-05 10:12:47,573 INFO  org.dspace.content.Bundle @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:add_bitstream:bundle_id=47,bitstream_id=78
+2014-12-05 10:12:47,577 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:add_bundle:item_id=29,bundle_id=47
+2014-12-05 10:12:47,577 INFO  org.dspace.content.Bitstream @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_bitstream:bitstream_id=78
+2014-12-05 10:12:47,604 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=29
+2014-12-05 10:12:47,605 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:12:47,606 INFO  org.dspace.content.Bitstream @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_bitstream:bitstream_id=78
+2014-12-05 10:12:47,629 INFO  org.dspace.submit.step.CompleteStep @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:submission_complete:Completed submission with id=29
+2014-12-05 10:12:47,629 INFO  org.dspace.workflow.WorkflowManager @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:start_workflow:workspace_item_id=29item_id=29collection_id=10
+2014-12-05 10:12:47,632 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:12:47,641 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:delete_workspace_item:workspace_item_id=29item_id=29collection_id=10
+2014-12-05 10:12:47,680 INFO  org.dspace.workflow.WorkflowManager @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:archive_item:workflow_item_id=14item_id=29collection_id=10
+2014-12-05 10:12:47,687 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:12:47,694 INFO  org.dspace.content.Collection @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:add_item:collection_id=10,item_id=29
+2014-12-05 10:12:47,699 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=29
+2014-12-05 10:12:47,709 INFO  org.dspace.workflow.WorkflowManager @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:install_item:workflow_id=14, item_id=29handle=FIXME
+2014-12-05 10:12:49,858 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:workflow_item:handle=123456789/49
+2014-12-05 10:12:49,864 INFO  org.dspace.workflow.WorkflowManager @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:advance_workflow:workflow_item_id=14,item_id=29,collection_id=10,old_state=6,new_state=7
+2014-12-05 10:12:49,864 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:workflow_item:handle=123456789/49
+2014-12-05 10:12:49,870 INFO  org.dspace.workflow.WorkflowManager @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:advance_workflow:workflow_item_id=14,item_id=29,collection_id=10,old_state=4,new_state=7
+2014-12-05 10:12:49,870 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:workflow_item:handle=123456789/49
+2014-12-05 10:12:49,876 INFO  org.dspace.workflow.WorkflowManager @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:advance_workflow:workflow_item_id=14,item_id=29,collection_id=10,old_state=2,new_state=7
+2014-12-05 10:12:49,876 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:workflow_item:handle=123456789/49
+2014-12-05 10:12:49,884 INFO  org.dspace.workflow.WorkflowManager @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:advance_workflow:workflow_item_id=14,item_id=29,collection_id=10,old_state=0,new_state=7
+2014-12-05 10:12:50,048 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/49 to Index
+2014-12-05 10:12:57,972 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:view_item:handle=123456789/49
+2014-12-05 10:12:58,014 INFO  org.dspace.app.util.GoogleMetadata @ Using [/dspace/config/crosswalks/google-metadata.properties] for Google Metadata configuration
+2014-12-05 10:13:03,867 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:view_item:handle=123456789/49
+2014-12-05 10:22:51,856 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:update_item:item_id=30
+2014-12-05 10:22:51,857 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:create_item:item_id=30
+2014-12-05 10:22:51,865 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:update_item:item_id=30
+2014-12-05 10:22:51,866 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:create_workspace_item:workspace_item_id=-1item_id=30collection_id=10
+2014-12-05 10:22:51,868 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:22:51,870 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:22:51,894 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:22:51,896 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:22:51,898 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:22:51,899 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:24:20,286 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:24:20,287 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:24:20,317 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:24:20,318 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:24:41,454 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:24:41,455 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:24:41,811 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:24:41,820 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:24:46,172 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:24:46,173 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:24:46,238 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:24:46,247 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:24:46,248 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:24:54,979 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:24:54,980 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:24:55,056 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:24:55,065 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:24:59,695 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:24:59,696 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:24:59,774 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:24:59,782 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:24:59,783 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:25:07,021 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:25:07,022 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:25:07,087 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:25:07,095 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:25:07,096 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:25:07,096 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-12-05 10:25:11,546 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:25:11,548 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:25:32,847 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:25:32,848 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:25:32,872 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:25:32,873 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:27:26,362 INFO  org.dspace.content.Bundle @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:create_bundle:bundle_id=48
+2014-12-05 10:27:26,363 INFO  org.dspace.content.Bundle @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_bundle:bundle_id=48
+2014-12-05 10:27:26,365 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:add_bundle:item_id=30,bundle_id=48
+2014-12-05 10:27:31,143 INFO  org.dspace.content.Bitstream @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:create_bitstream:bitstream_id=79
+2014-12-05 10:27:31,145 INFO  org.dspace.content.Bundle @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:add_bitstream:bundle_id=48,bitstream_id=79
+2014-12-05 10:27:31,149 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:add_bundle:item_id=30,bundle_id=48
+2014-12-05 10:27:31,151 INFO  org.dspace.content.Bitstream @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_bitstream:bitstream_id=79
+2014-12-05 10:27:31,152 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:27:31,152 INFO  org.dspace.content.Bitstream @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_bitstream:bitstream_id=79
+2014-12-05 10:27:37,971 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:27:37,973 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:27:42,141 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:27:42,142 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:27:45,592 INFO  org.dspace.submit.step.LicenseStep @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:accept_license:workspace_item_id30
+2014-12-05 10:27:45,595 INFO  org.dspace.content.Bundle @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:create_bundle:bundle_id=49
+2014-12-05 10:27:45,595 INFO  org.dspace.content.Bundle @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_bundle:bundle_id=49
+2014-12-05 10:27:45,597 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:add_bundle:item_id=30,bundle_id=49
+2014-12-05 10:27:45,623 INFO  org.dspace.content.Bitstream @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:create_bitstream:bitstream_id=80
+2014-12-05 10:27:45,627 INFO  org.dspace.content.Bundle @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:add_bitstream:bundle_id=49,bitstream_id=80
+2014-12-05 10:27:45,633 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:add_bundle:item_id=30,bundle_id=49
+2014-12-05 10:27:45,634 INFO  org.dspace.content.Bitstream @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_bitstream:bitstream_id=80
+2014-12-05 10:27:45,682 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_workspace_item:workspace_item_id=30
+2014-12-05 10:27:45,684 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:27:45,685 INFO  org.dspace.content.Bitstream @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_bitstream:bitstream_id=80
+2014-12-05 10:27:45,699 INFO  org.dspace.submit.step.CompleteStep @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:submission_complete:Completed submission with id=30
+2014-12-05 10:27:45,699 INFO  org.dspace.workflow.WorkflowManager @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:start_workflow:workspace_item_id=30item_id=30collection_id=10
+2014-12-05 10:27:45,703 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:27:45,711 INFO  org.dspace.content.WorkspaceItem @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:delete_workspace_item:workspace_item_id=30item_id=30collection_id=10
+2014-12-05 10:27:45,712 INFO  org.dspace.workflow.WorkflowManager @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:archive_item:workflow_item_id=15item_id=30collection_id=10
+2014-12-05 10:27:45,717 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:27:45,722 INFO  org.dspace.content.Collection @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:add_item:collection_id=10,item_id=30
+2014-12-05 10:27:45,724 INFO  org.dspace.content.Item @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:update_item:item_id=30
+2014-12-05 10:27:45,738 INFO  org.dspace.workflow.WorkflowManager @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:install_item:workflow_id=15, item_id=30handle=FIXME
+2014-12-05 10:27:48,461 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:workflow_item:handle=123456789/50
+2014-12-05 10:27:48,488 INFO  org.dspace.workflow.WorkflowManager @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:advance_workflow:workflow_item_id=15,item_id=30,collection_id=10,old_state=6,new_state=7
+2014-12-05 10:27:48,489 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:workflow_item:handle=123456789/50
+2014-12-05 10:27:48,498 INFO  org.dspace.workflow.WorkflowManager @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:advance_workflow:workflow_item_id=15,item_id=30,collection_id=10,old_state=4,new_state=7
+2014-12-05 10:27:48,498 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:workflow_item:handle=123456789/50
+2014-12-05 10:27:48,503 INFO  org.dspace.workflow.WorkflowManager @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:advance_workflow:workflow_item_id=15,item_id=30,collection_id=10,old_state=2,new_state=7
+2014-12-05 10:27:48,503 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:workflow_item:handle=123456789/50
+2014-12-05 10:27:48,508 INFO  org.dspace.workflow.WorkflowManager @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:advance_workflow:workflow_item_id=15,item_id=30,collection_id=10,old_state=0,new_state=7
+2014-12-05 10:27:48,572 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/50 to Index
+2014-12-05 10:28:54,648 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:view_item:handle=123456789/50
+2014-12-05 10:28:57,557 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:view_bitstream:bitstream_id=79
+2014-12-05 10:29:00,175 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2014-12-05 10:29:41,462 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2014-12-05 10:29:41,473 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2014-12-05 10:29:41,473 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2014-12-05 10:29:42,860 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-12-05 10:29:43,530 INFO  org.dspace.content.Bundle @ anonymous::create_bundle:bundle_id=50
+2014-12-05 10:29:43,532 INFO  org.dspace.content.Bundle @ anonymous::update_bundle:bundle_id=50
+2014-12-05 10:29:43,533 INFO  org.dspace.content.Item @ anonymous::add_bundle:item_id=29,bundle_id=50
+2014-12-05 10:29:43,574 INFO  org.dspace.content.Bitstream @ anonymous::create_bitstream:bitstream_id=81
+2014-12-05 10:29:43,580 INFO  org.dspace.content.Bundle @ anonymous::add_bitstream:bundle_id=50,bitstream_id=81
+2014-12-05 10:29:43,599 INFO  org.dspace.content.Bitstream @ anonymous::update_bitstream:bitstream_id=81
+2014-12-05 10:29:43,639 INFO  org.dspace.content.Item @ anonymous::update_item:item_id=29
+2014-12-05 10:29:43,639 INFO  org.dspace.content.Bitstream @ anonymous::update_bitstream:bitstream_id=81
+2014-12-05 10:29:43,643 INFO  org.dspace.event.EventManager @ 
+2014-12-05 10:29:43,941 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2014-12-05 10:29:43,954 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2014-12-05 10:29:44,325 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/49 to Index
+2014-12-05 10:29:44,670 INFO  org.dspace.search.DSIndexer @ Writing Item: 123456789/50 to Index
+2014-12-05 10:29:44,680 INFO  org.dspace.search.DSIndexer @ Wrote Item: 123456789/50 to Index
+2014-12-05 10:29:44,695 INFO  org.dspace.search.DSIndexer @ Writing Item: 123456789/49 to Index
+2014-12-05 10:29:44,703 INFO  org.dspace.search.DSIndexer @ Wrote Item: 123456789/49 to Index
+2014-12-05 10:29:44,746 INFO  org.dspace.search.DSIndexer @ Writing Collection: 123456789/24 to Index
+2014-12-05 10:29:44,751 INFO  org.dspace.search.DSIndexer @ Writing Collection: 123456789/41 to Index
+2014-12-05 10:29:44,754 INFO  org.dspace.search.DSIndexer @ Writing Collection: 123456789/26 to Index
+2014-12-05 10:29:44,756 INFO  org.dspace.search.DSIndexer @ Writing Collection: 123456789/48 to Index
+2014-12-05 10:29:44,758 INFO  org.dspace.search.DSIndexer @ Writing Collection: 123456789/4 to Index
+2014-12-05 10:29:44,760 INFO  org.dspace.search.DSIndexer @ Writing Collection: 123456789/33 to Index
+2014-12-05 10:29:44,763 INFO  org.dspace.search.DSIndexer @ Writing Collection: 123456789/44 to Index
+2014-12-05 10:29:44,765 INFO  org.dspace.search.DSIndexer @ Writing Collection: 123456789/6 to Index
+2014-12-05 10:29:44,776 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/35 to Index
+2014-12-05 10:29:44,777 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/36 to Index
+2014-12-05 10:29:44,777 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/11 to Index
+2014-12-05 10:29:44,778 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/37 to Index
+2014-12-05 10:29:44,778 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/38 to Index
+2014-12-05 10:29:44,778 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/39 to Index
+2014-12-05 10:29:44,779 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/12 to Index
+2014-12-05 10:29:44,779 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/34 to Index
+2014-12-05 10:29:44,780 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/40 to Index
+2014-12-05 10:29:44,780 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/28 to Index
+2014-12-05 10:29:45,157 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/30 to Index
+2014-12-05 10:29:45,158 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/14 to Index
+2014-12-05 10:29:45,159 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/15 to Index
+2014-12-05 10:29:45,159 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/23 to Index
+2014-12-05 10:29:45,160 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/31 to Index
+2014-12-05 10:29:45,161 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/1 to Index
+2014-12-05 10:29:45,161 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/29 to Index
+2014-12-05 10:29:45,162 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/32 to Index
+2014-12-05 10:29:45,163 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/13 to Index
+2014-12-05 10:29:45,163 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/5 to Index
+2014-12-05 10:29:45,164 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/42 to Index
+2014-12-05 10:29:45,164 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/3 to Index
+2014-12-05 10:29:45,165 INFO  org.dspace.search.DSIndexer @ Writing Community: 123456789/22 to Index
+2014-12-05 10:30:09,027 INFO  org.dspace.usage.LoggerUsageEventListener @ dcohen@memphis.edu:session_id=0CE248CC05AF300163E44AB84A376288:ip_addr=127.0.0.1:view_item:handle=123456789/50
+2014-12-05 10:30:20,504 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=2FCFEA4D71BF3D92C2BEA14AC2F852CB:ip_addr=127.0.0.1:view_community_list:
+2014-12-05 10:30:20,504 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-12-05 10:30:20,878 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-12-05 10:30:30,018 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=2FCFEA4D71BF3D92C2BEA14AC2F852CB:ip_addr=127.0.0.1:view_item:handle=123456789/50
+2014-12-05 10:30:32,685 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=2FCFEA4D71BF3D92C2BEA14AC2F852CB:ip_addr=127.0.0.1:view_bitstream:bitstream_id=79
+2014-12-05 10:30:43,055 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2014-12-05 10:30:49,746 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=2FCFEA4D71BF3D92C2BEA14AC2F852CB:ip_addr=127.0.0.1:view_community:community_id=2
+2014-12-05 10:30:49,784 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-12-05 10:30:52,253 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=2FCFEA4D71BF3D92C2BEA14AC2F852CB:ip_addr=127.0.0.1:view_community_list:
+2014-12-05 10:30:52,254 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-12-05 10:31:20,015 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=2FCFEA4D71BF3D92C2BEA14AC2F852CB:ip_addr=127.0.0.1:view_item:handle=123456789/50
+2014-12-05 10:31:25,814 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=2FCFEA4D71BF3D92C2BEA14AC2F852CB:ip_addr=127.0.0.1:view_item:handle=123456789/50
+2014-12-05 10:31:30,078 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=2FCFEA4D71BF3D92C2BEA14AC2F852CB:ip_addr=127.0.0.1:view_bitstream:bitstream_id=79
+2014-12-05 10:34:37,104 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=2FCFEA4D71BF3D92C2BEA14AC2F852CB:ip_addr=127.0.0.1:view_community_list:
+2014-12-05 10:34:37,104 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-12-05 10:40:37,907 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=2FFB25A1F0AE01968E1B15B8B7CF1198:ip_addr=127.0.0.1:view_community_list:
+2014-12-05 10:40:37,907 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-12-05 10:50:51,683 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-12-05 10:50:52,224 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2014-12-05 10:50:52,288 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-12-05 10:50:52,289 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-12-05 10:50:52,289 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-12-05 10:50:52,289 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-12-05 10:50:52,289 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-12-05 10:50:52,289 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-12-05 10:50:52,289 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-12-05 10:50:52,289 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-12-05 10:50:52,289 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-12-05 10:51:28,647 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=720CB6FE926DCC94769B77884153B077:ip_addr=127.0.0.1:view_item:handle=123456789/50
+2014-12-05 10:51:28,654 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2014-12-05 10:51:28,654 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://localhost:8080/solr/statistics
+2014-12-05 10:51:28,654 INFO  org.dspace.statistics.SolrLogger @ usage-statistics.dbfile:/dspace/config/GeoLiteCity.dat
+2014-12-05 10:51:29,129 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2014-12-05 10:51:29,131 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2014-12-05 10:51:29,134 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-infoseek.txt
+2014-12-05 10:51:29,141 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-inktomi.txt
+2014-12-05 10:51:29,144 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-google.txt
+2014-12-05 10:51:29,194 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading panchma.tivra.com:  Unresolvable host name (empty response)
+2014-12-05 10:51:30,022 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat09.whizbang.com:  null
+2014-12-05 10:51:30,252 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawl8-public.alexa.com:  Unresolvable host name (empty response)
+2014-12-05 10:51:30,431 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading zeus.nj.nec.com:  Unresolvable host name (empty response)
+2014-12-05 10:51:30,432 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading xs4.kso.co.uk:  Unresolvable host name (empty response)
+2014-12-05 10:51:30,647 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawler918.com:  Unresolvable host name (empty response)
+2014-12-05 10:51:30,678 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading idle.eidetica.com:  Unresolvable host name (empty response)
+2014-12-05 10:51:31,558 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat06.whizbang.com:  null
+2014-12-05 10:51:31,566 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-non_engines.txt
+2014-12-05 10:51:31,571 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-altavista.txt
+2014-12-05 10:51:31,572 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-lycos.txt
+2014-12-05 10:51:31,605 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-misc.txt
+2014-12-05 10:51:31,605 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-excite.txt
+2014-12-05 10:51:31,605 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/domains/example
+2014-12-05 10:51:31,778 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2014-12-05 10:51:31,791 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds

@@ -1,0 +1,125 @@
+
+    <request verb="ListSets">http://localhost:8080/oai/request</request>
+    <ListSets>
+        <set>
+            <setSpec>com_123456789_1</setSpec>
+            <setName>Herff College of Engineering</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_3</setSpec>
+            <setName>University of Memphis Libraries Special Collections</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_5</setSpec>
+            <setName>Test Community</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_11</setSpec>
+            <setName>Biomedical Engineering</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_12</setSpec>
+            <setName>Civil Engineering</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_13</setSpec>
+            <setName>Mechanical Engineering</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_14</setSpec>
+            <setName>Electrical and Computer Engineering</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_15</setSpec>
+            <setName>Engineering Technology</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_22</setSpec>
+            <setName>University of Memphis Theses and Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_23</setSpec>
+            <setName>Fogelman College of Business and Economics</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_28</setSpec>
+            <setName>College of Education, Health, and Human Services</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_29</setSpec>
+            <setName>Instruction and Curriculum Leadership (ICL)</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_30</setSpec>
+            <setName>Counseling, Educational Psychology, and Research (CEPR)</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_31</setSpec>
+            <setName>Health and Sports Science (HSS)</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_32</setSpec>
+            <setName>Leadership (LEAD)</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_34</setSpec>
+            <setName>College of Arts &amp; Sciences</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_35</setSpec>
+            <setName>Anthropology</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_36</setSpec>
+            <setName>Biological Sciences</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_37</setSpec>
+            <setName>Chemistry</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_38</setSpec>
+            <setName>Chucalissa</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_39</setSpec>
+            <setName>City &amp; Regional Planning</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_40</setSpec>
+            <setName>College of Communication &amp; Fine Arts</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_42</setSpec>
+            <setName>University Libraries</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_4</setSpec>
+            <setName>Memphis Area Landmarks</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_6</setSpec>
+            <setName>Test Collection</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_24</setSpec>
+            <setName>Accounting</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_26</setSpec>
+            <setName>Business Management</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_33</setSpec>
+            <setName>Open Access Articles from HSS Professors</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_41</setSpec>
+            <setName>Articles</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_44</setSpec>
+            <setName>Published Works</setName>
+        </set>
+    </ListSets>
+</OAI-PMH>

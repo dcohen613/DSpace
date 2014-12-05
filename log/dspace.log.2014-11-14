@@ -1,0 +1,44 @@
+2014-11-14 10:11:37,573 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2014-11-14 10:11:37,584 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2014-11-14 10:11:37,584 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2014-11-14 10:11:39,229 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-11-14 10:11:54,051 INFO  org.dspace.eperson.EPerson @ anonymous::create_eperson:eperson_id=1
+2014-11-14 10:11:54,055 INFO  org.dspace.eperson.PasswordHash @ Initialized a random number stream using NativePRNG provided by SUN version 1.7
+2014-11-14 10:11:54,098 INFO  org.dspace.eperson.EPerson @ anonymous::update_eperson:eperson_id=1
+2014-11-14 10:11:54,122 INFO  org.dspace.eperson.Group @ anonymous::update_group:group_id=1
+2014-11-14 10:11:54,124 INFO  org.dspace.event.EventManager @ 
+2014-11-14 10:20:30,775 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2014-11-14 10:20:30,786 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2014-11-14 10:20:30,786 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2014-11-14 10:21:21,086 INFO  org.dspace.eperson.EPerson @ anonymous::create_eperson:eperson_id=2
+2014-11-14 10:21:21,091 INFO  org.dspace.eperson.PasswordHash @ Initialized a random number stream using NativePRNG provided by SUN version 1.7
+2014-11-14 10:21:21,113 INFO  org.dspace.eperson.EPerson @ anonymous::update_eperson:eperson_id=2
+2014-11-14 10:21:21,128 INFO  org.dspace.eperson.Group @ anonymous::update_group:group_id=1
+2014-11-14 10:21:21,130 INFO  org.dspace.event.EventManager @ 
+2014-11-14 11:55:35,237 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2014-11-14 11:55:35,251 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2014-11-14 11:55:35,251 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2014-11-14 11:55:36,814 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-11-14 11:56:00,243 INFO  org.dspace.eperson.EPerson @ anonymous::create_eperson:eperson_id=3
+2014-11-14 11:56:00,248 INFO  org.dspace.eperson.PasswordHash @ Initialized a random number stream using NativePRNG provided by SUN version 1.7
+2014-11-14 11:56:00,269 INFO  org.dspace.eperson.EPerson @ anonymous::update_eperson:eperson_id=3
+2014-11-14 11:56:00,346 INFO  org.dspace.eperson.Group @ anonymous::update_group:group_id=1
+2014-11-14 11:56:00,348 INFO  org.dspace.event.EventManager @ 
+2014-11-14 11:56:03,565 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2014-11-14 11:56:03,576 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2014-11-14 11:56:03,576 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2014-11-14 11:56:04,979 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-11-14 11:56:22,235 INFO  org.dspace.eperson.EPerson @ anonymous::create_eperson:eperson_id=4
+2014-11-14 11:56:22,239 INFO  org.dspace.eperson.PasswordHash @ Initialized a random number stream using NativePRNG provided by SUN version 1.7
+2014-11-14 11:56:22,262 INFO  org.dspace.eperson.EPerson @ anonymous::update_eperson:eperson_id=4
+2014-11-14 11:56:22,277 INFO  org.dspace.eperson.Group @ anonymous::update_group:group_id=1
+2014-11-14 11:56:22,279 INFO  org.dspace.event.EventManager @ 
+2014-11-14 11:56:24,935 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2014-11-14 11:56:24,946 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2014-11-14 11:56:24,946 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2014-11-14 11:56:26,343 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-11-14 11:56:42,038 INFO  org.dspace.eperson.EPerson @ anonymous::create_eperson:eperson_id=5
+2014-11-14 11:56:42,043 INFO  org.dspace.eperson.PasswordHash @ Initialized a random number stream using NativePRNG provided by SUN version 1.7
+2014-11-14 11:56:42,067 INFO  org.dspace.eperson.EPerson @ anonymous::update_eperson:eperson_id=5
+2014-11-14 11:56:42,086 INFO  org.dspace.eperson.Group @ anonymous::update_group:group_id=1
+2014-11-14 11:56:42,088 INFO  org.dspace.event.EventManager @ 
